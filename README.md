@@ -1,1 +1,1 @@
-#PWA
+#PWA_TASKS
